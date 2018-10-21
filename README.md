@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
+# Angular-cli Getting Started
+
+In command line: 
+`npm install -g @angular/cli`
+
+`ng new my-project`
+
+`cd my-project`
+
+`ng serve`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
